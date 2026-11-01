@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="profile-banner.png.png" width="100%" alt="Sanchita Pawar Banner"/>
-</div>
-
 # Hey, I'm Sanchita! 👋
 
 ### Budding Engineer | AI/ML Enthusiast | Full Stack Developer
