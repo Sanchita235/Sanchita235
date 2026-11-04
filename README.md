@@ -7,10 +7,10 @@ Welcome to my GitHub! I love learning new technologies, building projects and ex
 
 ## 💻 About Me
 
-- 🌱 Currently learning AI/ML, Java and Full Stack Development.
-- 🧠 Interested in AI × Machine Learning × Neuroscience.
-- 💡 Love turning ideas into practical projects.
-- 🚀 Exploring new technologies and building every day.
+- Currently learning AI/ML, Java and Full Stack Development.
+- Interested in AI × Machine Learning × Neuroscience.
+- Love turning ideas into practical projects.
+- Exploring new technologies and building every day.
 
 ## 🛠️ Tech Stack
 
